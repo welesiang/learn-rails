@@ -1,4 +1,9 @@
-== README
+Learning Rails
+==
+
+Learning Rails with a tutorial from the RailsApps project.
+
+= README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
